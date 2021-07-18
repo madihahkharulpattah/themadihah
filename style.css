@@ -1,0 +1,255 @@
+*{margin: 0px;}
+*{padding: 0;}
+*{font-family: Arial, Helvetica, sans-serif;}
+
+header 
+{background-image: url(wallpaper/pattern.jpg);
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+
+.logo img {
+  float: right;
+  width: 225px;
+  height: auto;
+  filter: saturate(30);
+}
+
+table {
+    background-color: darkgrey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body { 
+    background-image: url(wallpaper/pattern.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;    
+}
+
+html {
+  height: 100%;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1500px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+body {
+  background-image: url(wallpaper/pattern.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 1080;
+  width: 1500;
+  zoom: 70%;
+}
+
+class1 {
+  position: relative;
+  top: 80px;
+  right: 250px;
+  opacity: 0.6;
+}
+
+h1 {
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  left: 600px;
+  font-size: 40px;
+}
+
+main {
+  position: relative;
+  text-align: center;
+  height: 1200px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid black;
+  float: left;
+  width: 160px;
+  top: 200px;
+}
+
+div.gallery:hover {
+  border: 1px solid black;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+class2 {
+  position: absolute;
+  top: 280px;
+  right: 1270px;
+}
+
+class3 {
+  position: absolute;
+  top: 280px;
+  right: 1070px;
+}
+
+class4 {
+  position: absolute;
+  top: 280px;
+  right: 870px;
+}
+
+class5 {
+  position: absolute;
+  top: 280px;
+  right: 670px;
+}
+
+class6 {
+  position: absolute;
+  top: 280px;
+  right: 470px;
+}
+
+class7 {
+  position: absolute;
+  top: 280px;
+  right: 270px;
+}
+
+class8 {
+  position: absolute;
+  top: 280px;
+  right: 70px;
+}
+
+class9 {
+  position: absolute;
+  top: 550px;
+  right: 1270px;
+}
+
+class10 {
+  position: absolute;
+  top: 550px;
+  right: 1070px;
+}
+
+class11 {
+  position: absolute;
+  top: 550px;
+  right: 870px;
+}
+
+class12 {
+  position: absolute;
+  top: 550px;
+  right: 670px;
+}
+
+class13 {
+  position: absolute;
+  top: 550px;
+  right: 470px;
+}
+
+class14 {
+  position: absolute;
+  top: 550px;
+  right: 270px;
+}
+
+class15 {
+  position: absolute;
+  top: 550px;
+  right: 70px;
+}
+
+class16 {
+  position: absolute;
+  top: 820px;
+  right: 1270px;
+}
+
+class17 {
+  position: absolute;
+  top: 820px;
+  right: 1070px;
+}
+
+class18 {
+  position: absolute;
+  top: 820px;
+  right: 870px;
+}
+
+class19 {
+  position: absolute;
+  top: 820px;
+  right: 670px;
+}
+
+class20 {
+  position: absolute;
+  top: 820px;
+  right: 470px;
+}
+
+class21 {
+  position: absolute;
+  top: 820px;
+  right: 270px;
+}
+
+class22 {
+  position: absolute;
+  top: 820px;
+  right: 70px;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 20px;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
+
+.previous {
+  background-color: darkgrey;
+  color: black;
+  float: left;
+  border: 1px solid black;
+  margin-left: 20px;
+}
+
+.next {
+  background-color: darkgrey;
+  color: black;
+  float: right;
+  border: 1px solid black;
+  margin-right: 20px;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+ 
+
+
+
