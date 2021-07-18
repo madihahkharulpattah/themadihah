@@ -1,2 +1,0 @@
-# themadihah
-e-resume website
